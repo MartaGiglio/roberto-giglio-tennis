@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Allenatore di tennis su campo</title>
+  <desc id="desc">Illustrazione editoriale di un maestro di tennis su un campo verde con tribuna e luce calda.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7efe2"/>
+      <stop offset="0.54" stop-color="#d7e8e1"/>
+      <stop offset="1" stop-color="#9dc8b7"/>
+    </linearGradient>
+    <linearGradient id="court" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6fab7a"/>
+      <stop offset="1" stop-color="#246c58"/>
+    </linearGradient>
+    <linearGradient id="clay" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d98a54"/>
+      <stop offset="1" stop-color="#ad5237"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#173d35" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="900" fill="url(#sky)"/>
+  <circle cx="1160" cy="128" r="70" fill="#f6c765" opacity="0.86"/>
+  <path d="M0 348 C210 278 340 314 510 265 C720 205 850 265 1035 210 C1190 164 1290 190 1400 156 L1400 445 L0 445 Z" fill="#244b4d" opacity="0.18"/>
+  <path d="M0 390 C220 325 420 350 650 308 C900 262 1120 312 1400 245 L1400 470 L0 470 Z" fill="#244b4d" opacity="0.22"/>
+  <g opacity="0.9">
+    <rect x="74" y="310" width="430" height="128" rx="14" fill="#f7f3e9"/>
+    <rect x="96" y="333" width="386" height="24" rx="12" fill="#7b998f"/>
+    <rect x="96" y="374" width="386" height="24" rx="12" fill="#7b998f"/>
+    <rect x="96" y="415" width="386" height="24" rx="12" fill="#7b998f"/>
+    <rect x="74" y="438" width="430" height="18" fill="#264f48"/>
+  </g>
+  <g>
+    <path d="M-80 900 L300 420 L1110 420 L1490 900 Z" fill="url(#court)"/>
+    <path d="M250 900 L500 420 L910 420 L1150 900 Z" fill="url(#clay)" opacity="0.9"/>
+    <path d="M302 900 L522 444 L888 444 L1100 900" fill="none" stroke="#f8f4e8" stroke-width="10"/>
+    <path d="M540 900 L634 444 M862 900 L772 444" fill="none" stroke="#f8f4e8" stroke-width="7" opacity="0.9"/>
+    <path d="M220 686 H1180 M362 564 H1036 M500 444 H900" fill="none" stroke="#f8f4e8" stroke-width="7" opacity="0.92"/>
+    <path d="M480 578 C640 548 782 548 940 578" fill="none" stroke="#173d35" stroke-width="8" opacity="0.3"/>
+    <path d="M486 584 C642 556 778 556 932 584" fill="none" stroke="#f7f3e9" stroke-width="4" stroke-dasharray="14 12" opacity="0.8"/>
+  </g>
+  <g filter="url(#softShadow)">
+    <ellipse cx="756" cy="795" rx="230" ry="34" fill="#173d35" opacity="0.25"/>
+    <path d="M653 470 C623 520 615 604 628 704 L681 704 C693 628 706 552 742 502 Z" fill="#ffffff"/>
+    <path d="M731 497 C782 530 823 548 881 554 L893 516 C840 497 801 474 758 432 Z" fill="#ffffff"/>
+    <path d="M664 704 L655 805 L705 805 L725 704 Z" fill="#183f61"/>
+    <path d="M735 704 L782 805 L835 805 L788 704 Z" fill="#183f61"/>
+    <path d="M643 803 L720 803 C731 816 727 830 703 833 L620 833 C617 820 624 809 643 803 Z" fill="#f7f3e9"/>
+    <path d="M776 803 L852 803 C866 815 866 830 840 835 L758 835 C752 820 758 809 776 803 Z" fill="#f7f3e9"/>
+    <path d="M654 455 C642 416 665 382 707 378 C746 374 775 399 778 437 C782 477 759 504 720 508 C688 512 665 492 654 455 Z" fill="#d79b68"/>
+    <path d="M654 430 C663 384 704 362 746 379 C737 407 708 422 654 430 Z" fill="#263b3f"/>
+    <path d="M704 501 C714 517 742 518 760 498 L756 547 L700 544 Z" fill="#d79b68"/>
+    <path d="M628 705 H794 C807 645 810 588 790 528 C764 546 708 548 674 529 C643 578 625 637 628 705 Z" fill="#f8f4e8"/>
+    <path d="M653 474 C607 492 574 528 548 584 L585 610 C613 560 641 534 680 520 Z" fill="#f8f4e8"/>
+    <path d="M547 584 C529 596 522 615 535 627 C551 641 573 630 588 608 Z" fill="#d79b68"/>
+    <g transform="translate(892 506) rotate(18)">
+      <ellipse cx="92" cy="0" rx="82" ry="118" fill="none" stroke="#f7f3e9" stroke-width="14"/>
+      <ellipse cx="92" cy="0" rx="56" ry="88" fill="none" stroke="#284d48" stroke-width="4" opacity="0.55"/>
+      <path d="M92 -103 V103 M64 -85 V85 M120 -85 V85 M35 0 H149 M47 -45 H137 M47 45 H137" stroke="#284d48" stroke-width="3" opacity="0.48"/>
+      <rect x="-28" y="98" width="40" height="142" rx="16" fill="#263b3f"/>
+    </g>
+    <circle cx="1010" cy="344" r="20" fill="#d9ea4b"/>
+  </g>
+</svg>
